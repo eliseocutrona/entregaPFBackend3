@@ -24,12 +24,8 @@ AdoptMe es una aplicación backend desarrollada para la gestión de adopciones d
    git clone https://github.com/[tu-usuario]/adoptme-backend.git
 
 2. Navega a la carpeta del proyecto:
- ```bash
-      cd adoptme-backend
 
-3. Instala las dependencias:
- ```bash
-   npm install
+3. Instala las dependencias:   npm install
 
 4. Configura las variables de entorno:
 
@@ -45,9 +41,7 @@ JWT_COOKIE=tokencito
 JWT_SECRET=rq0tga4T1xS5y8g0S/RzMs+bvzryhO6IREA51HfA5vM
 
 
-5. Inicia el servidor:
-
-npm start
+5. Inicia el servidor:  npm start
 
 
 
