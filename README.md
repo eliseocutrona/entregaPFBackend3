@@ -25,11 +25,11 @@ AdoptMe es una aplicación backend desarrollada para la gestión de adopciones d
 
 2. Navega a la carpeta del proyecto:
  ```bash
- cd adoptme-backend
+      cd adoptme-backend
 
 3. Instala las dependencias:
  ```bash
-npm install
+   npm install
 
 4. Configura las variables de entorno:
 
