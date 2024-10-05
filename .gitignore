@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+.env.dev
+.env.prod
+
+# Carpeta de pruebas (si decides no incluirla)
+test/
+
+# Otros archivos a ignorar (ejemplo)
+logs/
+*.log
